@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+p {
+    color: white;
+    font-size: 150%;
+    
+}
+body{
+    font-family: 'Fredoka', sans-serif;
+}
+
+#date, #button{
+    background-color: #395472;
+    border: #395472;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 150%;
+    color: white;
+    border-radius: 30%;
+    text-align: center;
+}
+
